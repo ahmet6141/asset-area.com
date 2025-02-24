@@ -1,6 +1,6 @@
 # Welcome to Asset-Area! 👋
 
-[![Asset-Area Logo](https://d41chssnpqdne.cloudfront.net/user_upload_by_module/chat_bot/files/64336452/Y3NL7DXNmhShXab7.png?Expires=1741615750&Signature=m9CeLgQjSemh0YVa1I6O228kqFU7NY25eV8S3yOcPelYt1UonrSAr~wFRi~M0-vOvB1mQATvzYS5lYJ6d1UvAjdMoA35uIsa4zOgln5C63sJga4aBJOpnDHKZY-~jAB8JWYbI0HOlEsWcJPL3KjGDUFwFgXZ9~pxmifY-rzGPBd5mOb~GzLj~URjLj~Rxe820MRLOKKIo0A-WvfZE8tpSKphfhp2WTHZKXCVnUnKaZhxNzG4N~2KbxP9Kh~gRMfvtT1XiAi3ggHUQVHeRWn0fZDcE6igZe7s00-hcn0VNFqSm3oJAaciuCkHGu87rMXDzwWSRWaGFr3X5tSpHlXrkw__&Key-Pair-Id=K3USGZIKWMDCSX)](https://asset-area.com)
+[![Asset-Area Logo](https://d41chssnpqdne.cloudfront.net/user_upload_by_module/chat_bot/files/64336452/Y3NL7DXNmhShXab7.png?Expires=1741615750&Signature=m9CeLgQjSemh0YVa1I6O228kqFU7NY25eV8S3yOcPelYt1UonrSAr~wFRi~M0-vOvB1mQATvzYS5lYJ6d1UvAjdMoA35uIsa4zOgln5C63sJga4aBJOpnDHKZY-~jAB8JWYbI0HOlEsWcJPL3KjGDUFwFgXZ9~pxmifY-rzGPBd5mOb~GzLj~URjLj~Rxe820MRLOKKIo0A-WvfZE8tpSKphfhp2WTHZKXCVnUnKaZhxNzG4N~2KbxP9Kh~gRMfvtT1XiAi3ggHUQVHeRWn0fZDcE6igZe7s00-hcn0VNFqSm3oJAaciuCkHGu87rMXDzwWSRWaGFr3X5tSpHlXrkw__&Key-Pair-Id=K3USGZIKWMDCSX)](https://www.asset-area.com)
 
 **Your one-stop shop for premium digital game assets, source code, and 3D models!**
 
@@ -30,7 +30,18 @@ Asset-Area.com is a vibrant online marketplace and community built for game deve
 *   **Secure Payment Processing:** We handle the transactions so you can focus on creating.
 *   **Direct Messaging:** Connect with other users to discuss projects, collaborations, or custom requests.
 *   **Ratings and Reviews:** Provide feedback on assets and sellers to help the community.
-*    **Forums/Community Interaction:** Engage in discussions, share tips, and get support from fellow creators.
+*   **Forums/Community Interaction:** Engage in discussions, share tips, and get support from fellow creators.
+*   **User Messaging and Notifications:** Stay connected with other users and receive important updates.
+
+## Technology Stack
+
+Asset-Area is built using a robust and modern technology stack:
+
+*   **Backend:** Python (Django Framework) - providing a secure, scalable, and maintainable backend.
+*   **Frontend:** HTML, CSS, JavaScript - creating a responsive and user-friendly interface.
+*   **Payment Integration:** PayTR - enabling secure and seamless payment processing for Turkish users.
+*   **Authentication:** Google Authentication - offering a convenient and secure login option.
+* **Real-time Features:** User messaging and notification.
 
 ## Getting Started
 
@@ -40,7 +51,7 @@ Asset-Area.com is a vibrant online marketplace and community built for game deve
 
 ## Contribute
 
-We welcome contributions from the community!  If you have suggestions, bug reports, or want to contribute to the development of Asset-Area, please feel free to open an issue or submit a pull request. (This section is more relevant if you have an *open-source* component to your project.  If it's just the website, you might remove this.)
+We welcome contributions from the community! If you have suggestions, bug reports, or want to contribute to the development of Asset-Area, please feel free to open an issue or submit a pull request. (This section is more relevant if you have an *open-source* component to your project. If it's just the website, you might remove this.)
 
 ## Connect With Us
 
