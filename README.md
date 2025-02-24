@@ -1,6 +1,6 @@
 # Welcome to Asset-Area! 👋
 
-[![Asset-Area Logo](https://d41chssnpqdne.cloudfront.net/user_upload_by_module/chat_bot/files/64336452/Y3NL7DXNmhShXab7.png?Expires=1741615750&Signature=m9CeLgQjSemh0YVa1I6O228kqFU7NY25eV8S3yOcPelYt1UonrSAr~wFRi~M0-vOvB1mQATvzYS5lYJ6d1UvAjdMoA35uIsa4zOgln5C63sJga4aBJOpnDHKZY-~jAB8JWYbI0HOlEsWcJPL3KjGDUFwFgXZ9~pxmifY-rzGPBd5mOb~GzLj~URjLj~Rxe820MRLOKKIo0A-WvfZE8tpSKphfhp2WTHZKXCVnUnKaZhxNzG4N~2KbxP9Kh~gRMfvtT1XiAi3ggHUQVHeRWn0fZDcE6igZe7s00-hcn0VNFqSm3oJAaciuCkHGu87rMXDzwWSRWaGFr3X5tSpHlXrkw__&Key-Pair-Id=K3USGZIKWMDCSX)](https://www.asset-area.com)
+[![Asset-Area Logo](https://d41chssnpqdne.cloudfront.net/user_upload_by_module/chat_bot/files/64336452/Y3NL7DXNmhShXab7.png?Expires=1741615750&Signature=m9CeLgQjSemh0YVa1I6O228kqFU7NY25eV8S3yOcPelYt1UonrSAr~wFRi~M0-vOvB1mQATvzYS5lYJ6d1UvAjdMoA35uIsa4zOgln5C63sJga4aBJOpnDHKZY-~jAB8JWYbI0HOlEsWcJPL3KjGDUFwFgXZ9~pxmifY-rzGPBd5mOb~GzLj~URjLj~Rxe820MRLOKKIo0A-WvfZE8tpSKphfhp2WTHZKXCVnUnKaZhxNzG4N~2KbxP9Kh~gRMfvtT1XiAi3ggHUQVHeRWn0fZDcE6igZe7s00-hcn0VNFqSm3oJAaciuCkHGu87rMXDzwWSRWaGFr3X5tSpHlXrkw__&Key-Pair-Id=K3USGZIKWMDCSX)](https://asset-area.com)
 
 **Your one-stop shop for premium digital game assets, source code, and 3D models!**
 
