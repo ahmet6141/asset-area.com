@@ -56,6 +56,6 @@ We welcome contributions from the community! If you have suggestions, bug report
 ## Connect With Us
 
 *   **Website:** [https://asset-area.com](https://asset-area.com)
-*   **[Add any other relevant social media links here - e.g., Twitter, Discord, Facebook]**
+*   **instagram:****[https://www.instagram.com/assetarea/]**
 
 **Join the Asset-Area community today and take your creative projects to the next level!**
